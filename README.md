@@ -16,3 +16,7 @@ I then compiled the Question answer chain to give responses from the model
 I then built a function to display the source page of where the response is built. 
 
 I then built a streamlit interface for chatting with the model
+
+## Interface
+
+The Model can be accessed using Inteface given that is built in the app.py File, currently working to generate link for public access
